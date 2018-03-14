@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "url1"
+        "url": "url1",
+        "farve": "Blå"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "url2"
+        "url": "url2",
+        "farve": "Rød"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "url3"
+        "url": "url3",
+        "farve": "Grøn"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "url4"
+        "url": "url4",
+        "farve": "Gul"
       },
       "geometry": {
         "type": "Point",
