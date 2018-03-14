@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "url3",
+        "url": "https://aamosen.github.io/ruc/auditoriet.html",
         "farve": "Grøn"
       },
       "geometry": {
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "url4",
+        "url": "https://aamosen.github.io/ruc/kantine.html",
         "farve": "Gul"
       },
       "geometry": {
